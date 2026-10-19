@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, Internship - Infrastructure",
+    "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 24.0,
+    "reasons": [
+      "infrastructure",
+      "platform",
+      "kubernetes",
+      "observability"
+    ],
+    "key": "9f6703e6915b0865",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-19_Palantir_Software_Engineer_Internship_Infrastruct.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-19",
+    "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Security Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8257892",
+    "locations": [
+      "Dublin",
+      "IE-Dublin"
+    ],
+    "deadline": "",
+    "posted": "2026-10-07",
+    "score": 17.5,
+    "reasons": [
+      "infrastructure",
+      "platform",
+      "cloud",
+      "python",
+      "automation"
+    ],
+    "key": "c0c094a88df9a45f",
+    "location_text": "Dublin / IE-Dublin",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-19_Stripe_Security_Engineer_New_Grad.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-19",
+    "applied": ""
+  }
+]
