@@ -1,0 +1,148 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, urlcolor=blue, linkcolor=blue, pdfborder={0 0 0}}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Huge \scshape Abdulquddus Yusuf} \\ \vspace{1pt}
+    \small Lagos, Nigeria $|$ \href{tel:+2340000000000}{+234 000 000 0000} $|$ \href{mailto:you@example.com}{\underline{you@example.com}} $|$
+    \href{https://linkedin.com/in/abdulquddus-yusuf}{\underline{linkedin.com/in/abdulquddus-yusuf}} $|$
+    \href{https://github.com/Slay1der}{\underline{github.com/Slay1der}} \\ \vspace{2pt}
+    \small Expected graduation: 2027 $|$ Available for a 13--17 week internship starting May, June or July 2027
+\end{center}
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Lagos (UNILAG)}{Lagos, Nigeria}
+      {B.Sc. Computer Engineering, CGPA 4.2/5.0}{Expected 2027}
+  \resumeSubHeadingListEnd
+
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {IT Infrastructure Intern}{Apr 2026 -- Sep 2026}
+      {CWG Plc (Computer Warehouse Group)}{Lagos, Nigeria}
+      \resumeItemListStart
+        \resumeItem{Set up \textbf{Zabbix} monitoring and \textbf{Grafana} dashboards for servers across the company environment, giving the team visibility into availability and resource usage}
+        \resumeItem{Configured alerting and used \textbf{Prometheus} metrics to track server health and respond to issues before they affected users}
+        \resumeItem{Administered \textbf{Linux} and \textbf{Windows} servers, including Active Directory users, groups and Group Policy}
+        \resumeItem{Ran backup and recovery jobs with \textbf{Veeam Backup \& Replication} and worked on \textbf{Nutanix} hyperconverged infrastructure}
+        \resumeItem{Performed data-centre operations: server racking, hardware upgrades and \textbf{RAID} configuration on Dell PowerEdge PERC controllers}
+        \resumeItem{Troubleshot LAN/WAN connectivity across switches and routers, escalating complex faults to senior engineers}
+        \resumeItem{Built an interactive teaching website explaining the team's monitoring, backup and directory stack}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {DevOps Engineering Trainee}{May 2026 -- Present}
+      {TS Academy}{Lagos, Nigeria}
+      \resumeItemListStart
+        \resumeItem{Training in \textbf{Linux administration}, \textbf{Bash} scripting, \textbf{Docker} and \textbf{GitHub Actions} CI/CD through live sessions and deadline-driven practicals}
+        \resumeItem{Delivering three graded practical projects: a Linux/networking toolkit, a Dockerised diagnostic CLI and a CI pipeline, each shipped in its own GitHub repo}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{\href{https://github.com/Slay1der}{Linux \& DevOps Toolkit}} $|$ \emph{Bash, Docker, GitHub Actions}}{2026}
+          \resumeItemListStart
+            \resumeItem{Bash toolkit for Linux system and network diagnostics}
+            \resumeItem{Containerised the diagnostic CLI with Docker and added a GitHub Actions CI pipeline that tests and builds on every push}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Ansible Automation Lab} $|$ \emph{RHEL, Ansible}}{2026}
+          \resumeItemListStart
+            \resumeItem{RHEL control node managing multiple hosts with playbooks and roles to automate users, packages, services and storage}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Active Directory Lab} $|$ \emph{Windows Server 2022, VirtualBox}}{2026}
+          \resumeItemListStart
+            \resumeItem{Built a domain from scratch: AD DS, domain controller promotion, Group Policy, client domain join and RRAS/NAT routing}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{K\`{o}k\d{o} AI} $|$ \emph{Best UI/UX, Intron Sahara Hackathon}}{2026}
+          \resumeItemListStart
+            \resumeItem{Voice bookkeeping app letting market traders record sales, credit and stock in English, Pidgin, Yor\`{u}b\'{a}, Hausa or Igbo}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, Bash, C++, SQL} \\
+     \textbf{Linux \& Automation}{: RHEL, systemd, Ansible, shell scripting} \\
+     \textbf{Observability}{: Prometheus, Grafana, Zabbix} \\
+     \textbf{Containers, Orchestration \& CI/CD}{: Docker, Kubernetes, GitHub Actions, Git} \\
+     \textbf{Infrastructure}{: Active Directory, Nutanix, Veeam, RAID, LAN/WAN networking} \\
+     \textbf{Certifications}{: Red Hat Certified Engineer (RHCE); Red Hat Certified System Administrator (RHCSA)}
+    }}
+ \end{itemize}
+
+\end{document}

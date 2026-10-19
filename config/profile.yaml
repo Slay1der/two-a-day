@@ -1,0 +1,95 @@
+# Who the search is for and what counts as a good fit.
+candidate:
+  name: Abdulquddus Yusuf
+  summary: >
+    Final-year Computer Engineering student (UNILAG, CGPA 4.2/5.0), graduating 2027 and continuing to
+    further study. RHCSA + RHCE. IT infrastructure intern at CWG Plc: Zabbix/Grafana/Prometheus monitoring,
+    Linux and Windows administration, Active Directory, Veeam, Nutanix. DevOps trainee: Docker,
+    GitHub Actions, Bash. Kubernetes, Ansible, Python.
+
+picks_per_day: 2
+
+# A title must match one of these (case-insensitive regex, word boundaries added automatically).
+title_include:
+  - intern
+  - internship
+  - summer analyst
+  - graduate
+  - new grad
+  - early career
+  - junior
+title_exclude:
+  - senior
+  - staff
+  - principal
+  - manager
+  - director
+  - lead
+  - phd
+
+# Weighted keywords scored against title + description.
+keywords:
+  site reliability: 6
+  sre: 6
+  production engineer: 6
+  infrastructure: 5
+  devops: 5
+  platform: 4
+  linux: 4
+  kubernetes: 4
+  observability: 4
+  monitoring: 3
+  prometheus: 3
+  grafana: 3
+  ansible: 3
+  docker: 3
+  networking: 3
+  cloud: 2
+  python: 2
+  bash: 2
+  automation: 2
+  on-call: 2
+  distributed systems: 2
+
+# Locations he can actually work in. A job passes if any of its locations contains one of these.
+locations_allow:
+  - remote
+  - lagos
+  - nigeria
+  - emea
+  - africa
+  - london
+  - dublin
+  - amsterdam
+  - zurich
+  - zürich
+  - warsaw
+  - krakow
+  - kraków
+  - bucharest
+  - berlin
+  - singapore
+
+# Phrases in a description that rule a role out for him.
+description_exclude:
+  - must be a us citizen
+  - u.s. citizenship is required
+  - security clearance
+  - not eligible for immigration sponsorship
+  - will not sponsor
+
+# Public job-board feeds. Unknown or renamed boards are skipped with a warning, so add freely.
+sources:
+  greenhouse:
+    - cloudflare
+    - datadog
+    - mongodb
+    - gitlab
+    - stripe
+    - twilio
+    - elastic
+    - grafanalabs
+  lever:
+    - palantir
+  ashby:
+    - ramp

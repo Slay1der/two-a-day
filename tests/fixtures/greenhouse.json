@@ -1,0 +1,5 @@
+{"jobs": [{"id": 1, "title": "Site Reliability Engineer Intern", "company_name": "Acme",
+  "absolute_url": "https://boards.greenhouse.io/acme/jobs/1", "location": {"name": "London, UK"},
+  "offices": [{"name": "London"}], "application_deadline": "2026-11-15T23:59:00Z",
+  "first_published": "2026-10-01T09:00:00Z",
+  "content": "&lt;p&gt;Work on &lt;b&gt;Linux&lt;/b&gt; fleets and Kubernetes.&lt;/p&gt;"}]}

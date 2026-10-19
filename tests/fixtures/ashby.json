@@ -1,0 +1,6 @@
+{"jobs": [
+  {"title": "Infrastructure Intern", "location": "Amsterdam", "secondaryLocations": [], "isListed": true,
+   "isRemote": true, "jobUrl": "https://jobs.ashbyhq.com/acme/1", "descriptionPlain": "Prometheus, Grafana",
+   "publishedAt": "2026-10-10T00:00:00Z"},
+  {"title": "Hidden Role", "location": "Berlin", "isListed": false, "jobUrl": "https://jobs.ashbyhq.com/acme/2"}
+]}

@@ -1,0 +1,53 @@
+name: Update status
+
+on:
+  workflow_dispatch:
+    inputs:
+      key:
+        description: "Application key (first 8 characters, shown on the dashboard)"
+        required: true
+      status:
+        description: "New status"
+        required: true
+        type: choice
+        options: [Applied, Assessment, Interview, Offer, Rejected, Withdrawn, Shortlisted]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: twoaday
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e .
+      - run: twoaday status "${{ inputs.key }}" "${{ inputs.status }}"
+      - run: |
+          git config user.name "two-a-day bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Status: ${{ inputs.key }} -> ${{ inputs.status }}"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
