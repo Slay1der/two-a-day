@@ -50,5 +50,56 @@
     "status": "Shortlisted",
     "added": "2026-10-19",
     "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 24.0,
+    "reasons": [
+      "infrastructure",
+      "platform",
+      "kubernetes",
+      "observability"
+    ],
+    "key": "be63c33242245be8",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-20_Palantir_Software_Engineer_New_Grad_Infrastructur.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-20",
+    "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer Intern, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186367",
+    "locations": [
+      "Singapore",
+      "SG-Singapore"
+    ],
+    "deadline": "",
+    "posted": "2026-09-22",
+    "score": 14.5,
+    "reasons": [
+      "infrastructure",
+      "platform",
+      "python",
+      "automation"
+    ],
+    "key": "e1627d229be6d0a0",
+    "location_text": "Singapore / SG-Singapore",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-20_Stripe_Integration_Reliability_Engineer_Intern_.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-20",
+    "applied": ""
   }
 ]
