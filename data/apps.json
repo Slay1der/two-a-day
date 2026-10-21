@@ -101,5 +101,52 @@
     "status": "Shortlisted",
     "added": "2026-10-20",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "MongoDB",
+    "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+    "locations": [
+      "Dublin"
+    ],
+    "deadline": "",
+    "posted": "2026-10-09",
+    "score": 13.5,
+    "reasons": [
+      "platform",
+      "networking",
+      "cloud",
+      "python"
+    ],
+    "key": "ef87b047451cc078",
+    "location_text": "Dublin",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-21_MongoDB_2027_Software_Engineer_Intern_Dublin_6_M.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-21",
+    "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
+    "url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 11.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "ed7a68e474fd569b",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-21_Palantir_Forward_Deployed_Infrastructure_Engineer.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-21",
+    "applied": ""
   }
 ]
