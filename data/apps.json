@@ -148,5 +148,55 @@
     "status": "Shortlisted",
     "added": "2026-10-21",
     "applied": ""
+  },
+  {
+    "source": "ashby",
+    "company": "Ramp",
+    "title": "Applied Scientist Intern",
+    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+    "locations": [
+      "New York, NY (HQ)",
+      "Remote"
+    ],
+    "deadline": "",
+    "posted": "2026-09-15",
+    "score": 10.0,
+    "reasons": [
+      "infrastructure",
+      "monitoring",
+      "python"
+    ],
+    "key": "75aaa66932abcf8e",
+    "location_text": "New York, NY (HQ) / Remote",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-22_Ramp_Applied_Scientist_Intern.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-22",
+    "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Cloudflare",
+    "title": "Software Engineer Intern (2027)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+    "locations": [
+      "In-Office",
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "2026-10-05",
+    "score": 9.0,
+    "reasons": [
+      "platform",
+      "networking",
+      "python"
+    ],
+    "key": "1c7bbc4557a86367",
+    "location_text": "In-Office / London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-22_Cloudflare_Software_Engineer_Intern_2027.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-22",
+    "applied": ""
   }
 ]
