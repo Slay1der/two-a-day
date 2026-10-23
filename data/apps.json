@@ -198,5 +198,51 @@
     "status": "Shortlisted",
     "added": "2026-10-22",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Financial Data Analyst Intern, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186442",
+    "locations": [
+      "Singapore",
+      "SG-Singapore"
+    ],
+    "deadline": "",
+    "posted": "2026-09-24",
+    "score": 8.5,
+    "reasons": [
+      "infrastructure",
+      "python"
+    ],
+    "key": "6e8d546dfeffcea2",
+    "location_text": "Singapore / SG-Singapore",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-23_Stripe_Financial_Data_Analyst_Intern_Technical_.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-23",
+    "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1",
+    "locations": [
+      "Singapore, Singapore"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "0a12df9377e46eb0",
+    "location_text": "Singapore, Singapore",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-23_Palantir_Software_Engineer_Internship.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-23",
+    "applied": ""
   }
 ]
