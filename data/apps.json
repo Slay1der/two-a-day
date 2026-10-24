@@ -244,5 +244,53 @@
     "status": "Shortlisted",
     "added": "2026-10-23",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "MongoDB",
+    "title": "2027 - Summer Software Engineer Intern, Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+    "locations": [
+      "Dublin"
+    ],
+    "deadline": "",
+    "posted": "2026-10-23",
+    "score": 13.5,
+    "reasons": [
+      "platform",
+      "networking",
+      "cloud",
+      "python"
+    ],
+    "key": "2871fd533076b52a",
+    "location_text": "Dublin",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-24_MongoDB_2027_Summer_Software_Engineer_Intern_Dub.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-24",
+    "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "locations": [
+      "London",
+      "GB-London"
+    ],
+    "deadline": "",
+    "posted": "2026-08-31",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "695e34f0f98c41c6",
+    "location_text": "London / GB-London",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-24_Stripe_Software_Engineer_Intern.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-24",
+    "applied": ""
   }
 ]
