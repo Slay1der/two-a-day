@@ -292,5 +292,50 @@
     "status": "Shortlisted",
     "added": "2026-10-24",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "locations": [
+      "Singapore",
+      "SG-Singapore"
+    ],
+    "deadline": "",
+    "posted": "2026-09-07",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "5455e8302517c94f",
+    "location_text": "Singapore / SG-Singapore",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-25_Stripe_Software_Engineer_Intern.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-25",
+    "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "5bfb5c10767788c3",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-25_Palantir_Software_Engineer_Internship.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-25",
+    "applied": ""
   }
 ]
