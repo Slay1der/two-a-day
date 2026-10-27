@@ -337,5 +337,50 @@
     "status": "Shortlisted",
     "added": "2026-10-25",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+    "locations": [
+      "Bucharest",
+      "RO-Bucharest"
+    ],
+    "deadline": "",
+    "posted": "2026-08-31",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "a8f557a424df0c8f",
+    "location_text": "Bucharest / RO-Bucharest",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-27_Stripe_Software_Engineer_Intern.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-27",
+    "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, Internship - Query Engines",
+    "url": "https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "517289b74acb30d8",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-27_Palantir_Software_Engineer_Internship_Query_Engin.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-27",
+    "applied": ""
   }
 ]
