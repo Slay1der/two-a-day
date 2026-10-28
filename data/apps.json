@@ -382,5 +382,50 @@
     "status": "Shortlisted",
     "added": "2026-10-27",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+    "locations": [
+      "Dublin",
+      "IE-Dublin"
+    ],
+    "deadline": "",
+    "posted": "2026-08-17",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "4397ece395468730",
+    "location_text": "Dublin / IE-Dublin",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-28_Stripe_Software_Engineer_Intern_Summer_or_Winte.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-28",
+    "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "url": "https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e",
+    "locations": [
+      "Singapore, Singapore"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "26fa9ec9836a2b6e",
+    "location_text": "Singapore, Singapore",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-28_Palantir_Software_Engineer_New_Grad.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-28",
+    "applied": ""
   }
 ]
