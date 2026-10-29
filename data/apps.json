@@ -427,5 +427,51 @@
     "status": "Shortlisted",
     "added": "2026-10-28",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Junior Commercial Associate, Works in Progress",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241571",
+    "locations": [
+      "London",
+      "GB-London"
+    ],
+    "deadline": "",
+    "posted": "2026-10-05",
+    "score": 9.0,
+    "reasons": [
+      "infrastructure",
+      "platform"
+    ],
+    "key": "f315288c975158fc",
+    "location_text": "London / GB-London",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-29_Stripe_Junior_Commercial_Associate_Works_in_Pro.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-29",
+    "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "7417a51943d47120",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-29_Palantir_Software_Engineer_New_Grad.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-29",
+    "applied": ""
   }
 ]
