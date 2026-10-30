@@ -473,5 +473,50 @@
     "status": "Shortlisted",
     "added": "2026-10-29",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+    "locations": [
+      "Dublin",
+      "IE-Dublin"
+    ],
+    "deadline": "",
+    "posted": "2026-08-31",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "dd402e3792736a2c",
+    "location_text": "Dublin / IE-Dublin",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-30_Stripe_Software_Engineer_New_Grad.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-30",
+    "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Query Engines",
+    "url": "https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "fb13a0b61e84b502",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-30_Palantir_Software_Engineer_New_Grad_Query_Engines.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-30",
+    "applied": ""
   }
 ]
