@@ -518,5 +518,51 @@
     "status": "Shortlisted",
     "added": "2026-10-30",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+    "locations": [
+      "Bucharest",
+      "RO-Bucharest"
+    ],
+    "deadline": "",
+    "posted": "2026-08-31",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "66172daf5f8c6cb9",
+    "location_text": "Bucharest / RO-Bucharest",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-31_Stripe_Software_Engineer_New_Grad.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-31",
+    "applied": ""
+  },
+  {
+    "source": "ashby",
+    "company": "Ramp",
+    "title": "Software Engineering Intern, Frontend",
+    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "locations": [
+      "New York, NY (HQ)",
+      "Remote"
+    ],
+    "deadline": "",
+    "posted": "2026-09-24",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "9619bea5f61c873a",
+    "location_text": "New York, NY (HQ) / Remote",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-10-31_Ramp_Software_Engineering_Intern_Frontend.pdf",
+    "status": "Shortlisted",
+    "added": "2026-10-31",
+    "applied": ""
   }
 ]
