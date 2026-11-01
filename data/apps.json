@@ -564,5 +564,51 @@
     "status": "Shortlisted",
     "added": "2026-10-31",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160776",
+    "locations": [
+      "Singapore",
+      "SG-Singapore"
+    ],
+    "deadline": "",
+    "posted": "2026-09-02",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "d7bf3b5b37030131",
+    "location_text": "Singapore / SG-Singapore",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-11-01_Stripe_Software_Engineer_New_Grad.pdf",
+    "status": "Shortlisted",
+    "added": "2026-11-01",
+    "applied": ""
+  },
+  {
+    "source": "ashby",
+    "company": "Ramp",
+    "title": "Software Engineering Intern, iOS",
+    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+    "locations": [
+      "New York, NY (HQ)",
+      "Remote"
+    ],
+    "deadline": "",
+    "posted": "2026-09-24",
+    "score": 5.0,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "b57e2419991ae610",
+    "location_text": "New York, NY (HQ) / Remote",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-11-01_Ramp_Software_Engineering_Intern_iOS.pdf",
+    "status": "Shortlisted",
+    "added": "2026-11-01",
+    "applied": ""
   }
 ]
