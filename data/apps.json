@@ -610,5 +610,28 @@
     "status": "Shortlisted",
     "added": "2026-11-01",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+    "locations": [
+      "London",
+      "GB-London"
+    ],
+    "deadline": "",
+    "posted": "2026-08-31",
+    "score": 6.5,
+    "reasons": [
+      "infrastructure"
+    ],
+    "key": "7a24543f3210c685",
+    "location_text": "London / GB-London",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-11-02_Stripe_Software_Engineer_New_Grad.pdf",
+    "status": "Shortlisted",
+    "added": "2026-11-02",
+    "applied": ""
   }
 ]
