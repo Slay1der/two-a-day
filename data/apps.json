@@ -633,5 +633,28 @@
     "status": "Shortlisted",
     "added": "2026-11-02",
     "applied": ""
+  },
+  {
+    "source": "lever",
+    "company": "Palantir",
+    "title": "Software Engineer, Internship - Sovereign AI Systems",
+    "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "",
+    "score": 9.5,
+    "reasons": [
+      "infrastructure",
+      "observability"
+    ],
+    "key": "e8988639094cb0a9",
+    "location_text": "London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-11-06_Palantir_Software_Engineer_Internship_Sovereign_A.pdf",
+    "status": "Shortlisted",
+    "added": "2026-11-06",
+    "applied": ""
   }
 ]
