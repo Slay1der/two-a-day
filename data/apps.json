@@ -656,5 +656,30 @@
     "status": "Shortlisted",
     "added": "2026-11-06",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Cloudflare",
+    "title": "Software Engineer Intern (2027) - London, UK",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+    "locations": [
+      "In-Office",
+      "London, United Kingdom"
+    ],
+    "deadline": "",
+    "posted": "2026-10-05",
+    "score": 9.0,
+    "reasons": [
+      "platform",
+      "networking",
+      "python"
+    ],
+    "key": "f32709d1315e4216",
+    "location_text": "In-Office / London, United Kingdom",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-11-09_Cloudflare_Software_Engineer_Intern_2027_London_UK.pdf",
+    "status": "Shortlisted",
+    "added": "2026-11-09",
+    "applied": ""
   }
 ]
