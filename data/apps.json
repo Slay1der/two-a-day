@@ -706,5 +706,28 @@
     "status": "Shortlisted",
     "added": "2026-11-14",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "Cloudflare",
+    "title": "People Operations Intern (2026/2027 Batch Only)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302",
+    "locations": [
+      "In-Office",
+      "Remote India"
+    ],
+    "deadline": "",
+    "posted": "2026-11-23",
+    "score": 2.0,
+    "reasons": [
+      "automation"
+    ],
+    "key": "69740def76803ff3",
+    "location_text": "In-Office / Remote India",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-11-23_Cloudflare_People_Operations_Intern_2026_2027_Batch.pdf",
+    "status": "Shortlisted",
+    "added": "2026-11-23",
+    "applied": ""
   }
 ]
