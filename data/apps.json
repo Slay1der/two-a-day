@@ -729,5 +729,29 @@
     "status": "Shortlisted",
     "added": "2026-11-23",
     "applied": ""
+  },
+  {
+    "source": "greenhouse",
+    "company": "GitLab",
+    "title": "Junior Talent Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950794002",
+    "locations": [
+      "Remote, United States",
+      "United States of America"
+    ],
+    "deadline": "",
+    "posted": "2026-11-23",
+    "score": 6.0,
+    "reasons": [
+      "platform",
+      "automation"
+    ],
+    "key": "a84bac228a6e8811",
+    "location_text": "Remote, United States / United States of America",
+    "cv_note": "base CV (tailoring failed: HTTPError)",
+    "cv": "2026-11-24_GitLab_Junior_Talent_Operations_Specialist.pdf",
+    "status": "Shortlisted",
+    "added": "2026-11-24",
+    "applied": ""
   }
 ]
